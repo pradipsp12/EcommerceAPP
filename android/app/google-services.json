@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395948127235",
+    "project_id": "myshop-719b0",
+    "storage_bucket": "myshop-719b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395948127235:android:2150e65106385974470a36",
+        "android_client_info": {
+          "package_name": "com.example.myshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6RKv40geDDgukypnpq2AVlT9nPgSwpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
